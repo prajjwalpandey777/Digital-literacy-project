@@ -30,9 +30,8 @@ The portfolio includes tasks covering:
 ### 📊 Task 1: Digital Literacy Awareness Infographic
 Created a one-page infographic explaining:
 - What digital literacy is  
-- Importance for students  
-- Safe internet practices  
-- Email etiquette  
+- useful digital tools for students  
+- professional online presence
 
 **Tool Used:** Canva  
 **Output:** Infographic image (in `Task 1 - Presentation`)
