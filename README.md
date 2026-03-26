@@ -5,8 +5,8 @@
 
 ## 👤 Student Details
 - **Name:** Prajjwal Pandey  
-- **Branch:** [Your Branch]  
-- **Year:** [Your Year]  
+- **Branch:** CSE with specialisation in AIML  
+- **Year:** First Year  
 - **Course:** CSE0001 – Digital Literacy  
 
 ---
@@ -35,7 +35,7 @@ Created a one-page infographic explaining:
 - Email etiquette  
 
 **Tool Used:** Canva  
-**Output:** Infographic image (in `Task 1-Presentation/`)
+**Output:** Infographic image (in `Task 1 - Presentation`)
 
 ---
 
@@ -113,9 +113,9 @@ I aim to:
 ---
 
 ## 🔗 Useful Links
-- GitHub Profile: [Add Link]  
-- LinkedIn Profile: [Add Link]  
-- Google Form Quiz: [Add Link]  
+- GitHub Profile: https://github.com/prajjwalpandey777  
+- LinkedIn Profile: https://www.linkedin.com/in/prajjwal-pandey-0a3b83379/  
+- Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSexv84AG-dD_LKB_6xKqX1wj7R-fQ0pt_ps46SOY_hFbXpBvw/viewform?usp=publish-editor  
 
 ---
 
