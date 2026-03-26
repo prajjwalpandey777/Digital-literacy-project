@@ -1,6 +1,29 @@
 # Digital-literacy-course-project
 
 ---
+# 📘 Digital Literacy Portfolio
+
+## 👤 Student Details
+- **Name:** Prajjwal Pandey  
+- **Branch:** [Your Branch]  
+- **Year:** [Your Year]  
+- **Course:** CSE0001 – Digital Literacy  
+
+---
+
+## 📌 Project Overview
+This repository contains my **Digital Literacy Portfolio** created as part of my coursework. As a **Student Digital Ambassador**, this project aims to help students understand how to navigate the digital world safely, professionally, and effectively.
+
+The portfolio includes tasks covering:
+- Digital awareness
+- Online presence building
+- Coding and collaboration tools
+- Professional communication
+- Cybercrime awareness & prevention
+
+---
+
+## 📂 Repository Structure
 
 ## ✅ Task Summaries
 
